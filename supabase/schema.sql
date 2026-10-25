@@ -1,4 +1,4 @@
--- Schéma de sauvegarde en ligne de Faye Facturation.
+-- Schéma de sauvegarde en ligne de Jaay.
 -- À exécuter dans l'éditeur SQL de votre projet Supabase.
 
 create table if not exists public.gf_records (

@@ -1,4 +1,4 @@
-# Faye Facturation
+# Jaay — caisse, facturation et crédit
 
 Application de **caisse, facturation et carnet de crédit** pour les commerçants sénégalais, pensée pour le terminal Android **ZCS Z108** (imprimante 80 mm intégrée, caméra, sous-écran client) et qui fonctionne aussi sur téléphone et tablette.
 

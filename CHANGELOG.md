@@ -1,7 +1,10 @@
 # Historique des versions
 
+## 2.4
+- L'application est renommée **Jaay** (« vendre » en wolof) ; nouvelle icône (lettre J).
+
 ## 2.3.1
-- L'application s'appelle **Faye Facturation** ; nouvelle icône (lettre F).
+- Application renommée « Faye Facturation » (nom abandonné depuis la 2.4).
 - Le code d'activation de production n'est plus dans le code public (compilation avec `--dart-define=ACTIVATION_HASH`) ; code de démonstration `DEMO-2026`.
 
 ## 2.3

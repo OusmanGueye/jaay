@@ -17,7 +17,7 @@ class AboutScreen extends StatelessWidget {
             Center(child: CircleAvatar(radius: 36, backgroundColor: t.colorScheme.primaryContainer, child: Icon(Icons.receipt_long, size: 36, color: t.colorScheme.onPrimaryContainer))),
             const SizedBox(height: 12),
             Center(child: Text(kAppName, style: t.textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.bold))),
-            const Center(child: Text('Version 2.3.1')),
+            const Center(child: Text('Version 2.4')),
             const SizedBox(height: 20),
             Text('Éditeur', style: t.textTheme.titleSmall),
             const Text(kOwner),

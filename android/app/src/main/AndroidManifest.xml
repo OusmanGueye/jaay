@@ -12,7 +12,7 @@
     <uses-feature android:name="android.hardware.camera.autofocus" android:required="false" />
 
     <application
-        android:label="Faye Facturation"
+        android:label="Jaay"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

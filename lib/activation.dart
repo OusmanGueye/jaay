@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:crypto/crypto.dart';
 
 /// Nom de l'application et mention légale.
-const kAppName = 'Faye Facturation';
+const kAppName = 'Jaay';
 const kOwner = 'Ousmane Gueye';
 const kLegal =
     '$kAppName est un logiciel propriétaire développé par $kOwner. '

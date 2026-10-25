@@ -1,7 +1,7 @@
 # Installation et compilation
 
 ## Installer l'APK sur le terminal (utilisateur)
-1. Copiez `FayeFacturation.apk` sur le terminal (téléchargement, Bluetooth, Google Drive ou `python3 -m http.server` depuis un ordinateur sur le même Wi-Fi).
+1. Copiez `Jaay.apk` sur le terminal (téléchargement, Bluetooth, Google Drive ou `python3 -m http.server` depuis un ordinateur sur le même Wi-Fi).
 2. Ouvrez le fichier. Si Android bloque : **Paramètres → Autoriser depuis cette source**.
 3. **Installer**, puis **Ouvrir**.
 4. Une version déjà installée est mise à jour **sans perdre les données**.
